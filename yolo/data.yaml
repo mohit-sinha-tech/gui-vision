@@ -1,0 +1,23 @@
+path: ../data
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  - PrimaryButton
+  - SecondaryButton
+  - SearchIcon
+  - Spinner
+  - Toast
+  - Modal
+  - Tooltip
+  - ErrorBanner
+  - Checkbox
+  - Radio
+  - Switch
+  - Avatar
+  - TabActive
+  - TabInactive
+  - Badge
+  - Price
+  - CartIcon
